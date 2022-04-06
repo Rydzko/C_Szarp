@@ -1,0 +1,60 @@
+C:\Users\blaze\source\repos\Client\Client\bin\Debug\Client.exe.config
+C:\Users\blaze\source\repos\Client\Client\bin\Debug\Client.exe
+C:\Users\blaze\source\repos\Client\Client\bin\Debug\Client.pdb
+C:\Users\blaze\source\repos\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\blaze\source\repos\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\blaze\source\repos\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\blaze\source\repos\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\blaze\source\repos\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\blaze\source\repos\Client\Client\obj\Debug\Client.exe
+C:\Users\blaze\source\repos\Client\Client\obj\Debug\Client.pdb
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_5\zad_dom_5\Client\bin\Debug\Client.exe.config
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_5\zad_dom_5\Client\bin\Debug\Client.exe
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_5\zad_dom_5\Client\bin\Debug\Client.pdb
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_5\zad_dom_5\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_5\zad_dom_5\Client\obj\Debug\Client.Form1.resources
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_5\zad_dom_5\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_5\zad_dom_5\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_5\zad_dom_5\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_5\zad_dom_5\Client\obj\Debug\Client.exe
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_5\zad_dom_5\Client\obj\Debug\Client.pdb
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_6\Client\bin\Debug\Client.exe.config
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_6\Client\bin\Debug\Client.exe
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_6\Client\bin\Debug\Client.pdb
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_6\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_6\Client\obj\Debug\Client.Form1.resources
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_6\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_6\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_6\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_6\Client\obj\Debug\Client.exe
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_6\Client\obj\Debug\Client.pdb
+C:\Users\Bartosz\Desktop\zad\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Bartosz\Desktop\zad\Client\Client\bin\Debug\Client.exe
+C:\Users\Bartosz\Desktop\zad\Client\Client\bin\Debug\Client.pdb
+C:\Users\Bartosz\Desktop\zad\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Bartosz\Desktop\zad\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\Bartosz\Desktop\zad\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Bartosz\Desktop\zad\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Bartosz\Desktop\zad\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz\Desktop\zad\Client\Client\obj\Debug\Client.exe
+C:\Users\Bartosz\Desktop\zad\Client\Client\obj\Debug\Client.pdb
+C:\Users\Michał Olejarz\Desktop\Nowy folder\zad\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Michał Olejarz\Desktop\Nowy folder\zad\Client\Client\bin\Debug\Client.exe
+C:\Users\Michał Olejarz\Desktop\Nowy folder\zad\Client\Client\bin\Debug\Client.pdb
+C:\Users\Michał Olejarz\Desktop\Nowy folder\zad\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Michał Olejarz\Desktop\Nowy folder\zad\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\Michał Olejarz\Desktop\Nowy folder\zad\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Michał Olejarz\Desktop\Nowy folder\zad\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Michał Olejarz\Desktop\Nowy folder\zad\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Michał Olejarz\Desktop\Nowy folder\zad\Client\Client\obj\Debug\Client.exe
+C:\Users\Michał Olejarz\Desktop\Nowy folder\zad\Client\Client\obj\Debug\Client.pdb
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_7\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_7\Client\Client\bin\Debug\Client.exe
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_7\Client\Client\bin\Debug\Client.pdb
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_7\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_7\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_7\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_7\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_7\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_7\Client\Client\obj\Debug\Client.exe
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_7\Client\Client\obj\Debug\Client.pdb
