@@ -1,0 +1,1 @@
+http://api.nbp.pl/api/exchangerates/rates/a/usd/?format=json
