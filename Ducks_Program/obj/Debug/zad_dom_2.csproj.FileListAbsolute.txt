@@ -1,0 +1,15 @@
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_2\zad_dom_2\bin\Debug\zad_dom_2.exe.config
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_2\zad_dom_2\bin\Debug\zad_dom_2.exe
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_2\zad_dom_2\bin\Debug\zad_dom_2.pdb
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_2\zad_dom_2\obj\Debug\zad_dom_2.csprojAssemblyReference.cache
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_2\zad_dom_2\obj\Debug\zad_dom_2.Form1.resources
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_2\zad_dom_2\obj\Debug\zad_dom_2.Properties.Resources.resources
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_2\zad_dom_2\obj\Debug\zad_dom_2.csproj.GenerateResource.cache
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_2\zad_dom_2\obj\Debug\zad_dom_2.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_2\zad_dom_2\obj\Debug\zad_dom_2.exe
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_2\zad_dom_2\obj\Debug\zad_dom_2.pdb
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_2\zad_dom_2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_2\zad_dom_2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_2\zad_dom_2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_2\zad_dom_2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Bartosz\Desktop\Aktualnie_polibuda\SEMESTR IV\INFA\zad_dom_2\zad_dom_2\obj\Debug\zad_dom_2.csproj.ResolveComReference.cache
