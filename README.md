@@ -1,1 +1,1 @@
-# Git_C_Szarp
+Sample projects related to C#
